@@ -9,14 +9,13 @@
 <br/>
 
 [![Kitty Corp](https://img.shields.io/badge/Kitty%20Corp-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://kittycorp.vercel.app/)
-[![GitHub](https://img.shields.io/badge/@psychspy7-GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/psychspy7)
 ![Profile views](https://komarev.com/ghpvc/?username=psychspy7&label=PROFILE+VIEWS&style=for-the-badge&color=1f6feb)
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Virat
+## About
 
 I build things because I want to see if they can exist.
 
@@ -24,7 +23,7 @@ My work sits around **AI companions, Android apps, private communication, backen
 
 A lot of what I build lives under **Kitty Corp**, where I'm experimenting with useful AI products and unconventional software.
 
-## 🚀 Featured work
+## Featured work
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -33,7 +32,7 @@ A lot of what I build lives under **Kitty Corp**, where I'm experimenting with u
 | **[SecretChat](https://github.com/psychspy7/secret.chat)** | Encrypted room-based chat platform with timed rooms, admin controls and a companion Android app. | JavaScript · Supabase · Realtime · AES-256-GCM |
 | **[EXAM//COUNTDOWN](https://github.com/psychspy7/exampreps)** | Study and exam-focus platform backed by a real database with admin controls and security-focused policies. | TypeScript · Supabase · PostgreSQL · Vite |
 
-## 🧰 Toolbox
+## Toolbox
 
 <div align="center">
 
@@ -45,13 +44,13 @@ A lot of what I build lives under **Kitty Corp**, where I'm experimenting with u
 
 **Things I keep exploring:** AI agents · multimodal systems · voice interfaces · Android · desktop apps · backend architecture · APIs · privacy · application security · automation · rapid prototyping
 
-## ⚡ How I work
+## How I build
 
 > Start with curiosity. Build the prototype. Find what breaks. Fix what matters. Ship a better version.
 
 I learn fastest by making real things. I care about the parts that turn a cool demo into an actual product: architecture, edge cases, privacy, deployment, updates and the experience someone gets when they use it.
 
-## 📊 GitHub pulse
+## GitHub
 
 <div align="center">
 
@@ -62,31 +61,28 @@ I learn fastest by making real things. I care about the parts that turn a cool d
 
 <img width="70%" src="https://streak-stats.demolab.com?user=psychspy7&hide_border=true&background=00000000" alt="GitHub streak" />
 
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=psychspy7&hide_border=true&area=true&bg_color=00000000" alt="Contribution activity graph" />
 
 </div>
 
-## 🐍 Contributions, but make them move
+## Contribution
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/psychspy7/psychspy7/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/psychspy7/psychspy7/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/psychspy7/psychspy7/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/psychspy7/Kitty/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/psychspy7/Kitty/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/psychspy7/Kitty/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
-## 🧪 Current direction
+## Current direction
 
 Building better versions of **KITTY AI**, **LISA**, private communication tools and experimental products under Kitty Corp while going deeper into AI systems, cybersecurity and product engineering.
 
 <div align="center">
 
-### Build something people remember.
+### Build. Test. Learn. Ship better.
 
 <sub>psychspy7 · Kitty Corp</sub>
 
