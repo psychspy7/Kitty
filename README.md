@@ -31,6 +31,14 @@ A lot of what I build lives under **Kitty Corp**, where I'm experimenting with u
 | **[LISA](https://github.com/psychspy7/lisa-companion)** | Windows AI companion with voice conversation, multiple model providers, local memory and controlled PC actions. | Python · Qt Quick · Groq · Gemini · OpenRouter |
 | **[SecretChat](https://github.com/psychspy7/secret.chat)** | Encrypted room-based chat platform with timed rooms, admin controls and a companion Android app. | JavaScript · Supabase · Realtime · AES-256-GCM |
 | **[EXAM//COUNTDOWN](https://github.com/psychspy7/exampreps)** | Study and exam-focus platform backed by a real database with admin controls and security-focused policies. | TypeScript · Supabase · PostgreSQL · Vite |
+| **[UltraLink](https://github.com/psychspy7/UltraLink)** | Browser-based experimental acoustic text transmission with an offline mode and automated protocol tests. | Next.js · TypeScript · Web Audio · Firebase |
+| **[Kitty Corp](https://kittycorp.vercel.app/)** | Company website, product showcase, early-access requests and protected publishing tools. | Next.js · TypeScript · Supabase |
+
+## Repository guide
+
+- **UltraLink** is the fuller Next.js acoustic communication application. **[ultralinktrans](https://github.com/psychspy7/ultralinktrans)** is a separate lightweight, static, browser-only prototype; the projects should not be mistaken for the same release.
+- **KITTY.AI-v2** is the current Android development repository. The original **KITTY.AI** repository is archived for reference.
+- Some products, including the Kitty Corp website, have private source repositories; their public product links remain available above.
 
 ## Toolbox
 
